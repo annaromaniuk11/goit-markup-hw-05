@@ -566,7 +566,7 @@ img {
   margin-bottom: 16px;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0, 02em;
+  letter-spacing: 0.02em;
   color: #fff;
 }
 
@@ -611,10 +611,7 @@ img {
 
 .footer-bottom:last-child {
   display: block;
-  justify-content: space-between;
-  align-items: center;
   margin-left: 80px;
-  margin-right: 3px;
 }
 
 .footer-form {
@@ -768,8 +765,6 @@ img {
   letter-spacing: 0.02em;
   width: 100%;
   margin-bottom: 16px;
-  justify-content: center;
-  align-items: center;
   white-space: nowrap;
 }
 
@@ -798,8 +793,6 @@ img {
 .modal-label {
   display: block;
   color: var(--LIGHT-SLATE, #8e8f99);
-
-  font-family: Roboto;
   font-size: 12px;
   line-height: 1.17em;
   letter-spacing: 0.04em;
@@ -912,11 +905,7 @@ img {
   background: var(--IRIS, #4d5ae5);
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   padding: 16px 32px;
-  align-items: center;
-  justify-content: center;
   margin: 0 auto;
-  gap: 10px;
-  cursor: pointer;
 
   color: #fff;
   text-align: center;
