@@ -652,7 +652,7 @@ img {
   height: 40px;
   display: inline-flex;
   padding: 8px 24px;
-  justify-self: center;
+  justify-content: center;
   align-items: center;
   border-radius: 4px;
   background: var(--IRIS, #4d5ae5);
