@@ -654,6 +654,7 @@ img {
   padding: 8px 24px;
   align-items: center;
   border-radius: 4px;
+  justify-self: center;
   background: var(--IRIS, #4d5ae5);
   color: #fff;
   text-align: center;
@@ -667,7 +668,7 @@ img {
 }
 .footer-form-btn:hover,
 .footer-form-btn:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .footer-form-icon {
   width: 24px;
