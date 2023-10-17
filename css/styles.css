@@ -563,7 +563,6 @@ img {
 }
 
 .footer-bottom {
-  margin-bottom: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -653,9 +652,7 @@ img {
   height: 40px;
   display: inline-flex;
   padding: 8px 24px;
-  justify-content: center;
   align-items: center;
-  gap: 16px;
   border-radius: 4px;
   background: var(--IRIS, #4d5ae5);
   color: #fff;
